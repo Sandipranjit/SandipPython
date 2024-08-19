@@ -1,0 +1,2 @@
+# SandipPython
+Oma pythonkoodi
